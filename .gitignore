@@ -1,2 +1,7 @@
-
+.ipynb_checkpoints/*
 .DS_Store
+.ipynb_checkpoints/TwoSidedMasterEquations-checkpoint.jl
+.ipynb_checkpoints/Manifest-checkpoint.toml
+.gitignore
+.ipynb_checkpoints/Project-checkpoint.toml
+.ipynb_checkpoints/TimeCrystal-twosided-Molmer-QFI-checkpoint.ipynb
